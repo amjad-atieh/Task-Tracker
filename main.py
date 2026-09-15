@@ -1,0 +1,1 @@
+print("commands:\nadd: to add a new task\nupdate: to update a task\ndelete: to delete a task\nlist: lists all tasks\nmark-in-progress: to change the task status to in progress\nmark-done: to change the task status to done\nhelp: show all commands or show how to use a specific command if use with one")
